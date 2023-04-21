@@ -62,4 +62,3 @@ Po wybraniu przycisku Wyczyść, fomrmularz zostaje wyczyszczony, a informacja w
 Technika rozwiązania dowolna!
 
 
-https://drive.google.com/drive/folders/1Swn0_CGkLYOty8b2OQLl6wxgfi2NRBUi?usp=sharing
