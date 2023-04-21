@@ -15,7 +15,7 @@ Wykorzystując język Javascript należy wykonać manipulacje na obiekcie DOM od
 elementów ze strony i wykonując następującą akcję:
 (cały kod Javascript ma być zawarty w pliku script.js):
 - po kliknięciu w przycisk kolor diva powinien zmienić się z niebieskiego na czerwony oraz kolor tła na dowolny inny.
-- dodanie kolejnego przycisku, po którego kliknięciu div zwiększa rozmiar.
+- dodanie kolejnego przycisku, który sprawia, że w divie pojawi się licznik, który odmierz czas od 5 do 0.
 
 
 ## Zadanie 2
@@ -45,16 +45,7 @@ Za pomocą dodanej biblioteki (jej klas) należy dodać pola:
 - przycisk "Wyślij" (class: success),
 - przycisk "Wyczyść" (class: danger).
 
-Po wciśnięciu przycisku "Wyślij" - pod formularzem powinien pojawić się wpisany tekst odpowiednio sformatowany.
-Np. 
-
-
-| Wiadomość:  |                                      |
-| ----------- | ------------------------------------ |
-| Email:      | **Wpisany w formularzu email**       |
-| Temat:      | **Wpisany w formularzu temat**       |
-| Wiadomość   | **Wpisana w formularzu wiadomość**   |
-|Została wysłana!|                                   |
+Po wciśnięciu przycisku "Wyślij" - pod formularzem wpisane dane powinny wyświetlić się pod formularze i posiadać czerwony kolor.
 
  
 Po wybraniu przycisku Wyczyść, fomrmularz zostaje wyczyszczony, a informacja wysłanej wiadomości znika.
