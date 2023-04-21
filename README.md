@@ -15,7 +15,7 @@ Wykorzystując język Javascript należy wykonać manipulacje na obiekcie DOM od
 elementów ze strony i wykonując następującą akcję:
 (cały kod Javascript ma być zawarty w pliku script.js):
 - po kliknięciu w przycisk kolor diva powinien zmienić się z niebieskiego na czerwony oraz kolor tła na dowolny inny.
-- dodanie kolejnego przycisku, który sprawia, że w divie pojawi się licznik, który odmierz czas od 5 do 0.
+- dodanie kolejnego przycisku, który sprawia, że w divie pojawi się licznik, który odmierza czas od 5 do 0.
 
 
 ## Zadanie 2
