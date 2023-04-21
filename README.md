@@ -14,8 +14,8 @@ Następnie dodaniu go w odpowiednim miejscu w pliku html.
 Wykorzystując język Javascript należy wykonać manipulacje na obiekcie DOM odnosząc się do odpowiednich 
 elementów ze strony i wykonując następującą akcję:
 (cały kod Javascript ma być zawarty w pliku script.js):
-- po kliknięciu w przycisk kolor diva powinien zmienić się z niebieskiego na czerwony oraz kolor tła na dowolny inny.
-- dodanie kolejnego przycisku, po którego kliknięciu pojawia się kolejny div.
+- po kliknięciu w przycisk kolor diva powinien zmienić się z niebieskiego na zielony oraz kolor tła na dowolny inny.
+- dodanie kolejnego przycisku, po którego kliknięciu znika div.
 
 
 ## Zadanie 2
